@@ -1,0 +1,568 @@
+{
+  "products": [
+    {
+      "name": "Trendy Attire",
+      "description": "Explore the latest trends in fashion, offering stylish and comfortable clothing for every occasion.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Jet Set Adventures",
+      "description": "Discover amazing travel experiences that take you to the most exotic destinations around the globe.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Fresh Finds",
+      "description": "Fresh groceries delivered straight to your door. We offer the finest local produce and organic items.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Gourmet Plates",
+      "description": "A delightful culinary experience with gourmet dishes made from the finest ingredients, perfect for any meal.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Reliable Solutions",
+      "description": "Professional services to make your life easier. From tech support to home services, we have you covered.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Tech Haven",
+      "description": "Get the best in tech, from the latest gadgets to cutting-edge electronics for every need.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Happy Tails",
+      "description": "Everything your pet needs to stay happy and healthy, from food to grooming services and accessories.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Urban Chic",
+      "description": "Step into style with the latest chic fashion collections, designed to suit every personality.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Wanderlust Travels",
+      "description": "Find your next adventure with tailored travel packages to the most captivating locations.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Green Market",
+      "description": "Locally sourced, fresh, and organic groceries delivered to your door at unbeatable prices.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Savory Kitchen",
+      "description": "Indulge in delicious meals crafted with the finest ingredients, bringing culinary joy to your table.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Swift Assist",
+      "description": "Providing quick and reliable assistance for home repairs, tech support, and personal services.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Gizmo World",
+      "description": "Stay ahead of the curve with the latest gadgets and electronics from trusted brands.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Pawsitive Care",
+      "description": "Your pet’s health and happiness come first. Offering grooming, nutrition, and wellness services.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Luxury Styles",
+      "description": "Experience the epitome of high-end fashion with sophisticated designs and luxury clothing lines.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Epic Journeys",
+      "description": "Embark on unforgettable trips with hand-picked destinations and exceptional service.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Harvest Hub",
+      "description": "Fresh, organic produce delivered weekly. Get all the best from local farms right to your kitchen.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "The Spice Route",
+      "description": "Savor the flavors of authentic international cuisine, with a blend of spices that transport you.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "ProFix Services",
+      "description": "Specializing in fast, reliable solutions for your home and office, including plumbing, repairs, and more.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Future Gadgets",
+      "description": "Discover cutting-edge electronics that make life easier, smarter, and more efficient.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Furry Friends",
+      "description": "Complete care for your pets, including nutrition, playtime, and grooming services to keep them happy.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Vintage Vibes",
+      "description": "Embrace a timeless fashion sense with vintage-inspired clothing designed to make you stand out.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Global Escapes",
+      "description": "Leave the ordinary behind with tailor-made travel experiences to breathtaking destinations worldwide.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Daily Essentials",
+      "description": "Your go-to source for everyday grocery items, offering everything from pantry staples to fresh produce.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Bistro Bliss",
+      "description": "A cozy dining experience with a menu that blends traditional and modern flavors for a delightful meal.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Efficient Support",
+      "description": "Offering professional assistance for your personal and business needs, from tech to general services.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Trendy Threads",
+      "description": "Discover the latest fashion trends with trendy threads that are perfect for every occasion.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Adventure Awaits",
+      "description": "Tailored travel packages to help you explore the world in the most thrilling ways possible.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Local Greens",
+      "description": "Get fresh, organic produce from local farmers straight to your doorstep with our convenient grocery service.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "The Tasty Fork",
+      "description": "Experience gourmet dining with fresh, local ingredients in every dish served.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Tech Assist Pros",
+      "description": "Providing expert tech support for home and business needs, ensuring everything runs smoothly.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Gadget Galaxy",
+      "description": "Discover the latest electronics and gadgets that are changing the way we live, work, and play.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Pet's Best Friend",
+      "description": "Offering top-notch pet care products and services to keep your furry friends healthy and happy.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Modern Couture",
+      "description": "Bold, high-fashion styles for modern individuals who embrace elegance and creativity.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Vacation Escape",
+      "description": "Your one-stop travel shop for luxurious escapes and unforgettable getaways around the world.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Farm Fresh Market",
+      "description": "Delivering fresh, seasonal groceries from the best local farms to your door every week.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Sizzle Grill",
+      "description": "Indulge in savory grilled delicacies with a menu that celebrates both traditional and new-age flavors.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Handy Helpers",
+      "description": "Professional services for home repairs, tech issues, and more, ensuring your space is always in top condition.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Smart Electronics",
+      "description": "Get the latest in smart home technology, gadgets, and accessories that make life easier and more connected.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Whisker Wonders",
+      "description": "Everything your pets need, from tasty treats to grooming services, all in one place.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Chic & Sleek",
+      "description": "Stylish, sleek fashion items for the modern individual, bringing out the best in you.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "WanderWise",
+      "description": "Explore the world with tailored travel solutions, making your trip unforgettable and hassle-free.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Grocery Goodness",
+      "description": "Fresh groceries, delivered with care, ensuring you always have the best for your family.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Bite Delight",
+      "description": "Treat yourself to mouthwatering dishes that are crafted with love and only the finest ingredients.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Ace Services",
+      "description": "Professional and fast services that cover everything from cleaning to repairs with the highest quality.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Future Tech",
+      "description": "Leading the charge in cutting-edge electronics, from virtual reality gear to wearable technology.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "PetCare Pro",
+      "description": "Comprehensive pet care services that include grooming, boarding, and health products to keep pets in top shape.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Haute Couture",
+      "description": "Luxury fashion that pushes the boundaries of style, offering the finest in custom-made couture.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Jetstream Journeys",
+      "description": "Fly to new heights with premium travel experiences that are curated just for you.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "The Organic Basket",
+      "description": "Shop for the best organic and natural foods, from fresh produce to artisanal treats.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Farm to Fork",
+      "description": "Experience farm-to-table dining with fresh, local ingredients that change with the seasons.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Service Squad",
+      "description": "Whether it’s a repair or a renovation, our experts provide quick, affordable, and reliable service.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "The Digital Store",
+      "description": "Shop the latest electronics and digital devices, from smart phones to gaming consoles.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Pawfect Care",
+      "description": "Everything your pet needs to stay happy, healthy, and active, with top-quality food and grooming services.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Fashion Forward",
+      "description": "Stay ahead of the trends with stylish outfits and accessories that bring out your unique flair.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Explorer's Dream",
+      "description": "Discover the world’s most beautiful destinations with exclusive, custom travel experiences.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Purely Organic",
+      "description": "Shop for 100% organic groceries that are good for you and the environment.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Flavors & Spices",
+      "description": "Dive into a world of gourmet flavors with dishes that bring rich spices from around the world.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Quick Fix Services",
+      "description": "Fast, reliable, and professional services to fix anything, from plumbing issues to electrical repairs.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "TechConnect",
+      "description": "Find the latest in consumer electronics, from smartphones to home entertainment systems.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Pets Paradise",
+      "description": "Treat your pets to premium food, toys, and care products to keep them healthy and happy.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Chic Couture",
+      "description": "Elegance and sophistication, brought to you with the latest in luxury fashion.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Holiday Horizons",
+      "description": "Your ultimate travel partner, offering unforgettable holidays to exotic locations worldwide.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Neighborhood Grocer",
+      "description": "From fresh produce to snacks, we provide all your grocery needs right from your neighborhood.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Gastronomic Experience",
+      "description": "Indulge in a culinary journey with exquisite meals prepared by world-class chefs.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Help on Call",
+      "description": "Fast and efficient services for your home, office, or personal needs—available at your convenience.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "NextGen Electronics",
+      "description": "Cutting-edge technology and gadgets that improve your life, from smart homes to wearables.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Furry Companions",
+      "description": "Find premium pet food, grooming, and accessories to ensure your pet lives their best life.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Timeless Style",
+      "description": "Classic fashion pieces that never go out of style, perfect for building your timeless wardrobe.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Explorer's Path",
+      "description": "Customize your travel plans with expert recommendations for your next big adventure.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Healthy Basket",
+      "description": "Shop for wholesome, nutritious groceries from trusted local sources, delivered right to your door.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Bistro Fusion",
+      "description": "Experience culinary fusion with innovative and delicious dishes in a cozy dining atmosphere.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Speedy Solutions",
+      "description": "On-demand services for all your household and business needs, delivered quickly and efficiently.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Digital World",
+      "description": "Explore the latest digital gadgets and cutting-edge technology that make life simpler and smarter.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "PetsCare Essentials",
+      "description": "Quality pet care essentials, from premium food to essential health products for your beloved pets.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Fashionista's Choice",
+      "description": "A curated collection of the most stylish and on-trend clothing and accessories to elevate your wardrobe.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Island Getaways",
+      "description": "Unwind in paradise with our exclusive travel packages to the world's most beautiful islands.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Farm to Table",
+      "description": "Fresh, farm-to-table groceries delivered directly from sustainable farms to your kitchen.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Gourmet Garden",
+      "description": "Explore a menu of fresh, healthy gourmet dishes made with locally sourced ingredients.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Service Genius",
+      "description": "We make your life easier with expert home, office, and tech support services that are just a call away.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Tech Trends",
+      "description": "Stay ahead of the curve with the latest gadgets and cutting-edge electronics for the modern world.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Paws & Claws",
+      "description": "Premium pet grooming, pet food, and accessories to ensure your furry friends live their best life.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Bold & Beautiful",
+      "description": "Statement fashion pieces that highlight your bold sense of style while remaining effortlessly beautiful.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Global Exploration",
+      "description": "Tailor your travel experience with personalized itineraries and exclusive travel experiences.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "Simply Fresh",
+      "description": "Fresh and high-quality groceries delivered to your door to make meal preparation easy and delicious.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Elegant Bites",
+      "description": "Savor elegant and beautifully crafted dishes that bring a sophisticated touch to any occasion.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Reliable Support",
+      "description": "Offering a wide range of home and office services, from repair to maintenance, ensuring everything runs smoothly.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    },
+    {
+      "name": "Next-Gen Devices",
+      "description": "Explore cutting-edge devices that make life smarter and more convenient with the latest in tech innovations.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 6
+    },
+    {
+      "name": "Pawfectly Yours",
+      "description": "Everything your pets need for a happy and healthy life, from food to grooming to playtime essentials.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 7
+    },
+    {
+      "name": "Couture Concepts",
+      "description": "Discover high-fashion styles and luxury apparel that redefine elegance and sophistication.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 1
+    },
+    {
+      "name": "Wanderlust Dreams",
+      "description": "Let your wanderlust guide you to unforgettable destinations with personalized travel services.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 2
+    },
+    {
+      "name": "The Gourmet Basket",
+      "description": "A curated selection of premium groceries, including fine cheeses, meats, and specialty ingredients.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 3
+    },
+    {
+      "name": "Farmhouse Feast",
+      "description": "Celebrate wholesome farm-to-table dining with delicious, locally sourced dishes.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 4
+    },
+    {
+      "name": "Expert Hands",
+      "description": "Providing expert services for everything from home repairs to IT support and more.",
+      "image_url": "https://picsum.photos/300/200",
+      "category": 5
+    }
+  ]
+}
