@@ -10,7 +10,6 @@ import "./controllers/personController";
 import "./controllers/categoryController";
 import "./controllers/productController";
 import "./controllers/transactionController";
-const { JogooClient, JogooInstall } = require("jogoo");
 
 export const dataSource = new DataSource({
   type: "postgres",
@@ -30,21 +29,6 @@ export const dataSource = new DataSource({
   // },
 });
 dataSource.initialize().then(() => {
-  (async () => {
-    let dbConfig = {
-      dialect: "postgres",
-      user: process.env.POSTGRESDB_USER,
-      host: process.env.POSTGRESDB_HOST,
-      database: process.env.POSTGRESDB_DATABASE,
-      password: process.env.POSTGRESDB_ROOT_PASSWORD,
-      syncronize: true,
-    };
-    let jogooClient = new JogooClient(dbConfig);
-    await jogooClient.connect();
-    // const jogooInstall = new JogooInstall(jogooClient);
-    // await jogooInstall.do();
-    // jogooClient.end();
-  })();
   const app = express();
   app.use(cors());
   app.use(morgan("combined"));

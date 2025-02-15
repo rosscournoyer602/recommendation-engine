@@ -31,7 +31,7 @@ class TransactionController {
       },
       relations: {
         person: true,
-        product: true,
+        product: true
       },
     });
     res.send(transaction);
