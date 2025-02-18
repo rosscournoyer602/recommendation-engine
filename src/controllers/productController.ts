@@ -18,7 +18,6 @@ class ProductController {
       },
       relations: {
         category: true,
-        transactions: true,
       },
     });
     res.send(products);
